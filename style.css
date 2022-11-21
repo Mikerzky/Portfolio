@@ -618,7 +618,16 @@ form input, form textarea{
 
 }
 
+.footer{
+    background-color: var(--btn);
+}
 
+.footer h3{
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+}
 
 
 
